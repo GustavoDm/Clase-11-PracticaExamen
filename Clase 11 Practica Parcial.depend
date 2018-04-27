@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1446667744 source:d:\gustavodm\clase 11 practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1493742924 source:d:\gustavodm\clase 11 practica parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1493742924 d:\gustavodm\clase 11 practica parcial\utn.h
+
